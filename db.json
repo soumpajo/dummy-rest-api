@@ -1,5 +1,10 @@
 
 {
+    "app": {
+            "name": "Ref 2 Go",
+            "title": "REF2GO",
+            "icon": ""
+    },
     "pages": [
         {
             "id": 1,
