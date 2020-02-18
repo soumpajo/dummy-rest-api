@@ -1,1 +1,10 @@
 
+{
+    "pages": [
+        {
+            "id": 1,
+            "title": "Test",
+            "content": "Hallo, dies ist ein Test",
+        }
+    ]
+}
